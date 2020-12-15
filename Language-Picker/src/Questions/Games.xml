@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<games>
+    <question>
+        <q>Do you want to work with a simple game engine or a more complex but powerful one?</q>
+
+        <ans>
+            <a>1. Simple Engine</a>
+            <a>2. Powerful Engine</a>
+        </ans>
+
+        <result>
+            <r>Godot</r>
+            <r>2</r>
+        </result>
+    </question>
+
+    <question>
+        <q>Do you want to use an engine with C#(A bit easier to learn) or one with C++(A more difficult but more powerful language)</q>
+
+        <ans>
+            <a>1. C#</a>
+            <a>2. C++</a>
+        </ans>
+
+        <result>
+            <r>Unity/C#</r>
+            <r>Unreal/C++</r>
+        </result>
+    </question>
+</games>

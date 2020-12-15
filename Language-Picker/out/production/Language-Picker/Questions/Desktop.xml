@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<desktop>
+    <question>
+        <q>What OS do you want to program for?</q>
+
+        <ans>
+            <a>1. Windows</a>
+            <a>2. Mac OS</a>
+            <a>3. Linux</a>
+        </ans>
+
+        <result>
+            <r>2</r>
+            <r>5</r>
+            <r>6</r>
+        </result>
+    </question>
+
+    <question>
+        <q>Do you want a platform independent language or a more Windows specific language?</q>
+
+        <ans>
+            <a>1. Platform Independent</a>
+            <a>2. Windows Specific</a>
+        </ans>
+
+        <result>
+            <r>3</r>
+            <r>C#</r>
+        </result>
+    </question>
+
+    <question>
+        <q>Would you want a Scripting language or an OO(Object Oriented) based language</q>
+
+        <ans>
+            <a>1. Scripting Lang</a>
+            <a>2. OO Lang</a>
+        </ans>
+
+        <result>
+            <r>Python</r>
+            <r>4</r>
+        </result>
+    </question>
+
+    <question>
+        <q>Would you like a more lower level language or a higher end one?</q>
+
+        <ans>
+            <a>1. Lower Level</a>
+            <a>2. Higher Level</a>
+        </ans>
+
+        <result>
+            <r>C/C++</r>
+            <r>Java</r>
+        </result>
+    </question>
+
+    <question>
+        <q>Would you like a more lower level language or a higher end one?</q>
+
+        <ans>
+            <a>1. Lower Level</a>
+            <a>2. Higher Level</a>
+        </ans>
+
+        <result>
+            <r>C/C++</r>
+            <r>Swift</r>
+        </result>
+    </question>
+
+    <question>
+        <q>Would you like a more lower level language or a higher end one?</q>
+
+        <ans>
+            <a>1. Lower Level</a>
+            <a>2. Higher Level</a>
+        </ans>
+
+        <result>
+            <r>C/C++</r>
+            <r>7</r>
+        </result>
+    </question>
+    <question>
+        <q>Would you want a Scripting language or an OO(Object Oriented) based language</q>
+
+        <ans>
+            <a>1. Scripting Lang</a>
+            <a>2. OO Lang</a>
+        </ans>
+
+        <result>
+            <r>Python</r>
+            <r>Java</r>
+        </result>
+    </question>
+</desktop>
